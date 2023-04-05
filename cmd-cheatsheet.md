@@ -1,4 +1,4 @@
-#cmd#  
+# cmd  
 
 
 `cd` - current directory  
@@ -39,7 +39,7 @@
 
 
 
-#git#  
+# git  
 
 
 `git init` - initialize repo  
